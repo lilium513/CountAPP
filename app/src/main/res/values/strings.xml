@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YuriCount</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reset">票数をリセット</string>
+    <string name="action_edit_text">文章を変更</string>
+
+</resources>

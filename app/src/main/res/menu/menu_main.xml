@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.yuricount.MainActivity"
+    >
+    <item
+        android:id="@+id/reset"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:title="@string/action_reset" />
+
+    <item
+        android:id="@+id/edit_text"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:title="@string/action_edit_text" />
+</menu>
